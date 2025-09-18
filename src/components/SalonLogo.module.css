@@ -18,7 +18,6 @@
 
   .homeLogo p {
     font-size: 26px;
-    padding-right: 10px;
     margin-left: 3px;
   }
 
@@ -30,7 +29,7 @@
 
   .logo2 {
     margin-left: 5px;
-    width: 150px;
+    width: 100px;
     cursor: pointer;
   }
 }
