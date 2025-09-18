@@ -194,7 +194,9 @@
 
   .iziBest {
     display: flex;
+    justify-content: center;
     width: 100%;
+    margin: auto;
     font-style: italic;
     color: rgb(97, 97, 97);
   }
@@ -215,7 +217,7 @@
 
   .iziBest p {
     display: flex;
-    margin-left: 160px;
+    /* margin-left: 160px; */
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   }
 
