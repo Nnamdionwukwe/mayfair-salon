@@ -24,7 +24,7 @@ export default function Main() {
 
           <div className={styles.mainDiv}>
             <div className={styles.iziBest}>
-              <p>EXPERIENCE IZI LIFESTYLE </p>
+              <p>EXPERIENCE MAYFAIR SALON </p>
             </div>
 
             <div className={styles.today}>

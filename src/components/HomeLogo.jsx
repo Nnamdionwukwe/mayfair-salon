@@ -7,7 +7,7 @@ export default function HomeLogo() {
   return (
     <Link to="contacts" className={styles.homeLogo}>
       <img className={styles.logo2} src={image} />
-      <p>izi lifestyle</p>
+      <p>mayfair</p>
     </Link>
   );
 }
