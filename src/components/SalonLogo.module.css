@@ -9,11 +9,12 @@
     color: gray;
     cursor: pointer;
     text-decoration: none;
+    /* opacity: 0.5; */
   }
-
+  /* 
   .homeLogo:hover {
     background-color: rgb(254, 250, 250);
-  }
+  } */
 
   .homeLogo p {
     font-size: 26px;
@@ -29,6 +30,7 @@
 
   .logo2 {
     margin-left: 5px;
-    width: 50px;
+    width: 150px;
+    cursor: pointer;
   }
 }
