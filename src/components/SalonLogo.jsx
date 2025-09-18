@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import styles from "./SalonLogo.module.css";
 
 export default function SalonLogo() {
-  const image = "salon-logo.jpg";
+  const image = "mayfair.PNG";
 
   return (
     <div>

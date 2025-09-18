@@ -80,7 +80,7 @@ export default function Hamburger() {
                 </Link>
 
                 <Link className={styles.home} to="/izilifestyle">
-                  <h4 className={styles.home}>Izi Lifestyle</h4>
+                  <h4 className={styles.home}>Mayfair</h4>
                 </Link>
 
                 <div className={styles.arrowDiv}>

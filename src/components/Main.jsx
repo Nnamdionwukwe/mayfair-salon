@@ -1,7 +1,7 @@
 import styles from "./Home.module.css";
 
 export default function Main() {
-  const image = "salon-logo.jpg";
+  const image = "mayfairlogo.PNG";
   const image1 = "izi1.jpg";
   const image3 = "izi3.jpg";
   const image2 = "izi2.jpg";
