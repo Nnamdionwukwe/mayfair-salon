@@ -98,5 +98,6 @@
 
   .lin {
     text-decoration: none;
+    cursor: pointer;
   }
 }
